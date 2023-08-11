@@ -1,0 +1,3 @@
+# 20230811
+# macbook pro, macOS ventura 13.4
+conda activate chatgpt
